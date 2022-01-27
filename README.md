@@ -1,1 +1,1 @@
-The GIANT documentation has moved to https://aliounis.github.io/giant_documentation
+The GIANT documentation has moved to [https://aliounis.github.io/giant_documentation](https://aliounis.github.io/giant_documentation/)
